@@ -1,6 +1,6 @@
-# eduteka-course-apirest-frontend
+# apirest-frontend
 
-Front-end desenvolvido em ReactJS, com o objetivo de consumir a API que será desenvolvida em aula.
+Front-end desenvolvido em ReactJS, com o objetivo de consumir a API desenvolvida em Laravel.
 
 Pré-requisitos:
 - Instalar Node.js e NPM
